@@ -130,7 +130,7 @@ cargo build --profile diag -p victory --features diagnostics   # target\diag\vic
 
 Every build appends crashes and host GPU failures to `crashes.log` in the
 title's data folder.
-
+test
 ## License
 
 GPL-3.0-or-later. See [LICENSE](LICENSE).
